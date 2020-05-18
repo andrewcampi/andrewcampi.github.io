@@ -2182,6 +2182,9 @@ section.lazy-placeholder:after {
     padding-bottom: 2rem;
   }
 }
+.cid-rVOaDOPZXm .card-title {
+  text-align: center;
+}
 .cid-rYkOGcuOpw {
   padding-top: 0px;
   padding-bottom: 75px;
@@ -2215,6 +2218,9 @@ section.lazy-placeholder:after {
   .cid-rYkOGcuOpw .card:not(.last-child) {
     padding-bottom: 2rem;
   }
+}
+.cid-rYkOGcuOpw .card-title {
+  text-align: center;
 }
 .cid-rYeZxqL39j {
   padding-top: 60px;
